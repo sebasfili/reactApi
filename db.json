@@ -12,7 +12,8 @@
       "strIngredient2": "7-up",  
       "strMeasure1": "1 shot",
       "strMeasure2": "1 part",
-      "strCreativeCommonsConfirmed": "No"      
+      "strCreativeCommonsConfirmed": "No",
+      "precio": "$150"
     },
     {
       "idDrink": "12308",
@@ -30,7 +31,8 @@
       "strMeasure2": "1 oz ",
       "strMeasure3": "1 oz ",
       "strCreativeCommonsConfirmed": "No",
-      "dateModified": "2016-09-01 09:51:35"
+      "dateModified": "2016-09-01 09:51:35",
+      "precio": "$250"
     },
     {
       "idDrink": "12752",
@@ -51,7 +53,8 @@
       "strMeasure3": " wedge\n",
       "strMeasure4": "Bacardi ",
       "strCreativeCommonsConfirmed": "No",
-      "dateModified": "2017-02-20 15:02:59"
+      "dateModified": "2017-02-20 15:02:59",
+      "precio": "$200"
     }
   ]
 }
