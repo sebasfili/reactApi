@@ -74,7 +74,8 @@
       "strMeasure3": "2 oz sweetened ",
       "strMeasure4": "1 oz ",
       "strCreativeCommonsConfirmed": "No",
-      "dateModified": "2017-08-24 10:04:33"
+      "dateModified": "2017-08-24 10:04:33",
+      "precio": "$300"
     },
     {
       "idDrink": "12776",
@@ -90,7 +91,8 @@
       "strIngredient3": "Cocoa powder",
       "strMeasure2": "Unsweetened ",
       "strCreativeCommonsConfirmed": "No",
-      "dateModified": "2015-09-03 03:32:59"
+      "dateModified": "2015-09-03 03:32:59",
+      "precio": "$90"
     }
   ]
 }
