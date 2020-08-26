@@ -2,36 +2,35 @@
   "listado": [
     {
       "id": "178307",
-      "nombre": "Blem",      
+      "nombre": "Blem",
       "Tipo": "Original aerosol",
       "detalle": "No hay nada más impactante que un hogar que brilla. Blem® Aerosol mejora el aspecto de la mayoría de las superficies duras al eliminar el polvo y las marcas de huellas dactilares, y proporciona una capa protectora y brillante sin dejar acumulaciones de cera. Brinda un brillo rápido y fácil de lograr en diversas superficies, que incluyen madera, cuero, granito, acero inoxidable, laminado y cuarzo*. Dejá un hermoso brillo y un aroma refrescante que iluminará tu hogar y dará la bienvenida a tus invitados. También disponible en fragancia naranja, limón y lavanda. *Seguro para usar en superficies terminadas y selladas únicamente.",
-      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/aerosol_original.png?la=es-ar&h=700&w=467&la=es-AR&hash=FA8922312B9EC35C440FF2FBC9510955",   
+      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/aerosol_original.png?la=es-ar&h=700&w=467&la=es-AR&hash=FA8922312B9EC35C440FF2FBC9510955",
       "precio": "$150"
     },
     {
       "id": "178307",
-      "nombre": "Blem Limpiador",      
+      "nombre": "Blem Limpiador",
       "Tipo": "Liquido",
       "detalle": "No hay nada más impactante que un piso sumamente reluciente. Blem® Limpiador Revitalizante Pisos Plastificados y Flotantes† revela la belleza radiante de tus pisos de madera con su fórmula sin aceite ni complicaciones y sin dejar residuos pegajosos ni rayas. Cuando terminás, todo lo que queda es el lustre natural y el brillo original de la madera del hogar que adorás.",
-      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/soapy_wood_cleaner_almond.png?la=es-ar&h=700&w=467&la=es-AR&hash=F50E09AD9720030E691C5017C657898C",   
+      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/soapy_wood_cleaner_almond.png?la=es-ar&h=700&w=467&la=es-AR&hash=F50E09AD9720030E691C5017C657898C",
       "precio": "$170"
     },
     {
       "id": "178307",
-      "nombre": "Blem® Lustramuebles ",    
-	  "Tipo": "Crema",	  
+      "nombre": "Blem® Lustramuebles ",
+      "Tipo": "Crema",
       "detalle": "Blem® Crema ayuda a rejuvenecer las superficies y le devuelve el brillo a tu hogar. La fórmula cremosa sin enjuague, limpia, da brillo y protege, dejando un aroma limpio y refrescante, devolviéndoles el lustre original a los muebles que más te importan. Blem® Loción Renovadora para Muebles es una fórmula cremosa que renueva el aspecto y protege los acabados de muebles, y deja un brillo duradero y una fantástica fragancia.",
-      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/cream_original.png?la=es-ar&h=700&w=467&la=es-AR&hash=1BE16A903BDF89C63D6F15793C094CDC",   
+      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/cream_original.png?la=es-ar&h=700&w=467&la=es-AR&hash=1BE16A903BDF89C63D6F15793C094CDC",
       "precio": "$300"
     },
     {
       "id": "178307",
-      "nombre": "Blem® Limpiador con Brillo y Fragancia",     
-	  "Tipo": "Liquido",	  
+      "nombre": "Blem® Limpiador con Brillo y Fragancia",
+      "Tipo": "Liquido",
       "detalle": "Nada es “más adulto”que un piso recién limpiado. Blem® 3 en 1 elimina de manera segura y suave la suciedad de los pisos de baldosa, vinílico, mármol y otros tipos de pisos*, y deja una superficie sin suciedad ni residuos. No es necesario enjuagar, solo echá y pasá el trapo. Es como si le dieras un baño a tu piso. Y darse un baño es fantástico.",
-      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/3in1_floral.png?la=es-ar&h=700&w=467&la=es-AR&hash=09F958DFC6FD610DB19B59F3F73ED3E4",   
+      "imagen": "https://www.blem.com.ar/~/media/pledge/product-detail-page/3in1_floral.png?la=es-ar&h=700&w=467&la=es-AR&hash=09F958DFC6FD610DB19B59F3F73ED3E4",
       "precio": "$200"
-    },
-
+    }
   ]
 }
